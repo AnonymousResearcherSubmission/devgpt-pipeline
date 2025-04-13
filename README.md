@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the DevGPT Pipeline! This project extracts, processes, and analyzes data from the DevGPT repository through a streamlined pipeline.
+Welcome to the DevGPT Processing Pipeline! This project extracts, processes, and analyzes data from the DevGPT repository through a streamlined pipeline.
 
 ## Pipeline Flow
 
